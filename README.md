@@ -12,7 +12,7 @@ This Python script is designed to extract text from an image using Optical Chara
 Before using this script, make sure you have the following components installed:
 
 - Python 3.x
-- [Tesseract OCR] installed and set up properly. You need to set the path to the Tesseract executable using the `pytesseract.pytesseract.tesseract_cmd` line in the script.
+- Tesseract OCR installed and set up properly. You need to set the path to the Tesseract executable using the `pytesseract.pytesseract.tesseract_cmd` line in the script.
 - Python packages installed:
   - `PIL` (Python Imaging Library)
   - `pytesseract`
